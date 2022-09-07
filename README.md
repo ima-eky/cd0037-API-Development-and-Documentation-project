@@ -16,7 +16,7 @@ The application must:
 Completing this trivia app will give you the ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others.
 
 ## Starting and Submitting the Project
-- [Here's](https://github.com/ima-eky/cd0037-API-Development-and-Documentation-project/tree/main/cd0037-API-Development-and-Documentation-project-main(starter-code)) the starter-code.The code in this script is (nearly) completed
+[Here's](https://github.com/ima-eky/cd0037-API-Development-and-Documentation-project/tree/main/cd0037-API-Development-and-Documentation-project-main(starter-code)) the starter-code.The code in this script is (nearly) completed
 
 [Fork](https://help.github.com/en/articles/fork-a-repo) the project repository and [clone](https://help.github.com/en/articles/cloning-a-repository) your forked repository to your machine. Work on the project locally and make sure to push all your changes to the remote repository before submitting the link to your repository in the Classroom.
 
